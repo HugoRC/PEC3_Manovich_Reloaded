@@ -93,4 +93,5 @@ Gemini nos muestra la hibridación, disolviendo las barreras entre texto, imagen
 
 ## Uso de IA
 -Se ha usado Perplexity para la busqueda de fuentes de *Scrollytelling*
+
 -Se ha usado Google NotebookLM para hacer un indice de citas de Lev Manovich
