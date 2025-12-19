@@ -25,6 +25,8 @@ Gemini lo mismo te crea una imagen, que te analiza la propia imagen, como que te
 ### Análisis bajo las gafas de Manovich
 Para entender Gemini bajo las gafas de Manovich, debemos mirar más allá de su interfaz de chat y observar su **Representación Numérica**. Manovich argumentaba que cuando los medios se vuelven datos numéricos, se vuelven programables. Gemini lleva esto a un extremo casi distópico, Gemini no diferencia entre un poster, un poema o una foto editada de tu perro, para Gemini todo lo anterior es lo mismo, son vectores numéricos, ¡Son matemáticas!.
 
+![Análisis imágenes by Gemini](https://github.com/HugoRC/PEC3_Manovich_Reloaded/blob/main/imagenes/analisis_foto.jpg)
+
 Esta característica permite una **Hibridación** profunda. En Gemini, la hibridación ocurre a nivel de core.
 
 > Lev Manovich, El Software Toma El Mando. Capítulo 10
@@ -43,7 +45,7 @@ Y, por último, me gustaría hablar de la **Variabilidad** de Gemini. Suele sorp
 
 ---
 ## Caso 2: The Atlas of Moons, un caso perfecto de Scrollytelling
-
+![Portada Atlas of moons](https://github.com/HugoRC/PEC3_Manovich_Reloaded/blob/main/imagenes/atlas.png)
 ### Descripción del caso
 El segundo caso es **The Atlas of Moons**, desarrollado por National Geographic. Este proyecto es un ejemplo de *Scrollytelling*, una técnica de diseño web que hibrida la navegación web vertical de toda la vida con la visualización de datos interactiva.
 
