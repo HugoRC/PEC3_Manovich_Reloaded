@@ -7,11 +7,11 @@
 ## Introducción y planteamiento
 
 Para esta práctica, he decidido ir a por dos casos muy interesantes.
-He querido analizar dos casos que me han impactado, mejor dicho, me han impresionado y que, bajo mi punto de vista, representan una etapa nueva en la evolución que Manovich predijo.
+He querido analizar dos casos que me han impactado, mejor dicho, me han impresionado y que bajo mi punto de vista, representan una etapa nueva en la evolución que Manovich predijo.
 
 Voy a hablar de cómo la IA ha roto todos los esquemas con **Gemini** y de cómo el periodismo se ha convertido en una experiencia interactiva con ejemplos como el de **The Atlas of Moons**.
 
-Dos nuevos ejemplos que demuestran la evolución de la hibridación profunda, incluso se podría decir que es hibridación profunda: La Inteligencia Artificial Generativa Multimodal y el Scrollytelling inmersivo.
+Dos nuevos ejemplos que demuestran la evolución de la hibridación, incluso se podría decir que es hibridación profunda: La Inteligencia Artificial Generativa y el Scrollytelling inmersivo.
 
 ---
 ## Caso 1: Gemini
