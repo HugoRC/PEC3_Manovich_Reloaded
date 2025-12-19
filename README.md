@@ -71,6 +71,7 @@ Pero, a diferencia del documental de tv o cine, el control lo tiene el usuario.
 Desde la perspectiva de la **Modularidad**, el apartado visual es fascinante.
 Aunque el usuario percibe una experiencia fluida y continua (como una película), la obra está construida por cientos de objetos independientes y código de programación.
 
+![Datos Lunas](https://github.com/HugoRC/PEC3_Manovich_Reloaded/blob/main/imagenes/datos.png)
 El navegador ensambla estos módulos en tiempo real. A diferencia de un vídeo donde ya esta todo fijo con sus escenas ordenadas y editadas, aquí cada elemento puede ser modificado individualmente por el código en respuesta a la acción del usuario y su ratón.
 
 > Lev Manovich, El Software Toma El Mando. Capítulo 8
