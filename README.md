@@ -99,6 +99,5 @@ Creo que hay que hablar ya de hibridación profunda, donde las propiedades de un
 Gemini nos muestra la hibridación, disolviendo las barreras entre texto, imagen y código. Por otro lado, *The Atlas of Moons* nos muestra la hibridación de la interfaz y la narrativa, transformando nuestra forma de consumir información compleja, lo que antes era un articulo con un infierno de datos, ahora es una historia guiada y agradable.
 
 ## Uso de IA
--Se ha usado Perplexity para la busqueda de fuentes de *Scrollytelling*
-
--Se ha usado Google NotebookLM para hacer un indice de citas de Lev Manovich
+ - Se ha usado Perplexity para la búsqueda de fuentes de Scrollytelling
+ - Se ha usado Google NotebookLM para hacer un índice de citas de Lev Manovich
