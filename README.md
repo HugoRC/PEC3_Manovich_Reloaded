@@ -81,7 +81,7 @@ El resultado es una nueva forma de periodismo de datos, inmersiva, agradable y c
 
 **Recursos y Referencias:**
 * [National Geographic - The Atlas of Moons](https://www.nationalgeographic.com/science/graphics/the-atlas-of-moons)
-* [Introduction to Scrollytelling (The Pudding)](https://pudding.cool/process/how-to-scroll/)
+* [How to implement scrollytelling with six different libraries (The Pudding)](https://pudding.cool/process/how-to-implement-scrollytelling/)
 
 ---
 ## Conclusión General
