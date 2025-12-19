@@ -90,3 +90,7 @@ Al analizar Gemini y *The Atlas of Moons* bajo la lupa de *El Software toma el m
 Creo que hay que hablar ya de hibridación profunda, donde las propiedades de un medio se transfieren a otro mediante el código, en estos dos casos, es todo código y automatización.
 
 Gemini nos muestra la hibridación, disolviendo las barreras entre texto, imagen y código. Por otro lado, *The Atlas of Moons* nos muestra la hibridación de la interfaz y la narrativa, transformando nuestra forma de consumir información compleja.
+
+## Uso de IA
+-Se ha usado Perplexity para la busqueda de fuentes de *Scrollytelling*
+-Se ha usado Google NotebookLM para hacer un indice de citas de Lev Manovich
