@@ -32,14 +32,14 @@ Para entender Gemini bajo las gafas de Manovich, debemos mirar más allá de su 
 
 Esta característica permite una **Hibridación** profunda. En Gemini, la hibridación ocurre a nivel de core.
 
-> Lev Manovich, El Software Toma El Mando. Capítulo 10
+> **Lev Manovich, El Software Toma El Mando. Capítulo 10**
 > Los procesos de invención e hibridación están estrechamente relacionados y trabajan juntos.
 
 También hay que hablar de **Automatización**. Manovich hablaba de herramientas que nos ayudan a crear. Ahora ya no, no creamos una imagen pixel a pixel o un texto palabra por palabra, ahora se pide la imagen a través de un prompt y te la devuelve de forma automática. Ahora ya no se crea, ahora damos ordenes estructuradas y claras.
 
 Y, por último, me gustaría hablar de la **Variabilidad** de Gemini. Suele sorprender pero es así, si dos personas le pedimos lo mismo a Gemini, nos dará resultados diferentes.
 
-> Lev Manovich, El Software Toma El Mando. Capítulo 13
+> **Lev Manovich, El Software Toma El Mando. Capítulo 13**
 > Al ofrecer más automatización de alto nivel en productos a precios accesibles, la industria socava involuntariamente las habilidades de los profesionales.
 
 **Recursos y Referencias:**
@@ -64,7 +64,7 @@ Manovich describe cómo el software simula medios antiguos para luego extenderlo
 
 Esto es lo que hace The Atlas of Moons, comienza simulando un planetario o un documental científico, el típico que ves en Netflix o en la 2, pero lo hibrida con la interactividad de la web. La clave de esta hibridación reside en el cambio de la interfaz: el **scroll** deja de ser una herramienta para "moverse hacia abajo" en un documento y se convierte en una herramienta para conocer las lunas del sistema solar. Casi nada.
 
-> Lev Manovich, El Software Toma El Mando. Capítulo 9
+> **Lev Manovich, El Software Toma El Mando. Capítulo 9**
 > La hibridación de medios es una reconfiguración más fundamental del universo de los medios que el multimedia.
 
 Me atrevería a decir que The Atlas of Moons es **Hibridación** entre el documental cinematográfico y la página web. Cuando entras en la web parece que estas viendo un documental. Hay información, hay movimiento, hay narrativa visual, aprendes de forma entretenida y guiada.
@@ -74,9 +74,10 @@ Desde la perspectiva de la **Modularidad**, el apartado visual es fascinante.
 Aunque el usuario percibe una experiencia fluida y continua (como una película), la obra está construida por cientos de objetos independientes y código de programación.
 
 ![Datos Lunas](https://github.com/HugoRC/PEC3_Manovich_Reloaded/blob/main/imagenes/datos.png)
+
 El navegador ensambla estos módulos en tiempo real. A diferencia de un vídeo donde ya esta todo fijo con sus escenas ordenadas y editadas, aquí cada elemento puede ser modificado individualmente por el código en respuesta a la acción del usuario y su ratón.
 
-> Lev Manovich, El Software Toma El Mando. Capítulo 8
+> **Lev Manovich, El Software Toma El Mando. Capítulo 8**
 > Ninguna de las nuevas técnicas de creación y edición de medios que asociamos con las computadoras es simplemente el resultado de que los medios 'sean digitales'. Las nuevas formas de acceso, distribución, análisis, generación y manipulación de medios provienen todas del software.
 
 Para terminar podríamos decir que The Atlas of Moons demuestra cómo la hibridación moderna y sobre todo profunda trasciende la mezcla de contenidos visuales.
