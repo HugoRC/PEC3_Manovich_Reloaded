@@ -1,6 +1,8 @@
 # PEC3: Manovich Reloaded
 **Autor:** Hugo Rodriguez Claver
+
 **Asignatura:** Cultura Digital
+
 **Fecha:** Diciembre 2025
 
 ---
