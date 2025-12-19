@@ -25,6 +25,7 @@ Gemini lo mismo te crea una imagen, que te analiza la propia imagen, como que te
 ### Análisis bajo las gafas de Manovich
 Para entender Gemini bajo las gafas de Manovich, debemos mirar más allá de su interfaz de chat y observar su **Representación Numérica**. Manovich argumentaba que cuando los medios se vuelven datos numéricos, se vuelven programables. Gemini lleva esto a un extremo casi distópico, Gemini no diferencia entre un poster, un poema o una foto editada de tu perro, para Gemini todo lo anterior es lo mismo, son vectores numéricos, ¡Son matemáticas!.
 
+#### Analisis de una imagen by Gemini:
 ![Análisis imágenes by Gemini](https://github.com/HugoRC/PEC3_Manovich_Reloaded/blob/main/imagenes/analisis_foto.jpg)
 
 Esta característica permite una **Hibridación** profunda. En Gemini, la hibridación ocurre a nivel de core.
