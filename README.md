@@ -15,7 +15,7 @@ Dos nuevos ejemplos que demuestran la evolución de la hibridación profunda, in
 
 ---
 ## Caso 1: Gemini
-
+![Logo Gemini](https://github.com/HugoRC/PEC3_Manovich_Reloaded/blob/main/imagenes/gemini.jpg)
 ### Descripción del caso
 **Google Gemini** representa la evolución más reciente y brutal de la Inteligencia Artificial Generativa. A diferencia de sus predecesores, que eran IAs especialistas (como por ejemplo modelos solo de texto o solo de imagen, solo video, etc), Gemini es multimodal.
 Esto significa que puede comprender, operar y combinar diferentes tipos de información (texto, código, audio, imagen, vídeo...) simultáneamente. Si usamos la "gafas" de Manovich, estamos ante la herramienta definitiva de remezcla profunda.
